@@ -45,4 +45,3 @@ if(NUMBER_OF_CLOSING LESS ${NUMBER_OF_OPENING})
     clone_subdirectory_with_tail(${DIR} ")")
 endif()
 
-
